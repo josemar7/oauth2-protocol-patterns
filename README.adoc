@@ -30,3 +30,5 @@ Please work with your information security team to determine the suitability of 
 * https://github.com/spring-projects/spring-security/tree/master/samples/boot/oauth2webclient-webflux[OAuth 2.0 WebClient extensions (WebFlux)]
 * https://github.com/spring-projects/spring-security/tree/master/samples/boot/oauth2resourceserver[OAuth 2.0 Resource Server]
 * https://github.com/spring-projects/spring-security/tree/master/samples/boot/oauth2resourceserver-webflux[OAuth 2.0 Resource Server (WebFlux)]
+
+https://www.youtube.com/watch?v=JnYIsvJY7gM
